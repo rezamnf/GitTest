@@ -3,6 +3,8 @@ Nomor Kelompok  : 14
 
 Nama Kelompok   : empatbelas
 
+# Anggota Kelompok
+
 Andrew (16519221), Frontend Profile
 
 Raihan Astrada Fathurrahman (16519225), Frontend Diary
@@ -22,6 +24,8 @@ Safiq Faray (16519329), Backend Diary
 David Moelia Sapoetra (16519352), membuat Navigator
 
 M. Rafli Zamzami (16519413), FrontEnd Homescreen
+
+# Cara Kerja Aplikasi E-Gizi
 
 Cara menggunakan aplikasi E-Gizi ini sangat mudah, pada beranda terdapat keterangan jumlah nutrisi harian yang harus dipenuhi dan jumlah nutrisi yang sudah dipenuhi oleh pengguna.
 
