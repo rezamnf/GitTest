@@ -1,16 +1,26 @@
 # Aplikasi E-Gizi
 Nomor Kelompok  : 14 
+
 Nama Kelompok   : empatbelas
 
-Andrew (16519221), Frontend Profile \n
+Andrew (16519221), Frontend Profile
+
 Raihan Astrada Fathurrahman (16519225), Frontend Diary
+
 Handy Zulkarnain (16519232), Backend Profile
+
 M. Rifat Abiwardani (16519273), Backend Homescreen
+
 Yahya Aqrom (16519276), 
+
 Helkia Yeremia (16519283), Backend Profile
+
 M. Reza Nur Fauzi (16519308), membuat README.md
+
 Safiq Faray (16519329), Backend Diary
+
 David Moelia Sapoetra (16519352), membuat Navigator
+
 M. Rafli Zamzami (16519413), FrontEnd Homescreen
 
 Cara menggunakan aplikasi E-Gizi ini sangat mudah, pada beranda terdapat keterangan jumlah nutrisi harian yang harus dipenuhi dan jumlah nutrisi yang sudah dipenuhi oleh pengguna.
