@@ -2,7 +2,7 @@
 Nomor Kelompok  : 14 
 Nama Kelompok   : empatbelas
 
-Andrew (16519221), Frontend Profile
+Andrew (16519221), Frontend Profile /n
 Raihan Astrada Fathurrahman (16519225), Frontend Diary
 Handy Zulkarnain (16519232), Backend Profile
 M. Rifat Abiwardani (16519273), Backend Homescreen
